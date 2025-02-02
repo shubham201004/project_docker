@@ -1,0 +1,12 @@
+# this is needed for local development
+[server]
+
+# no default browser
+headless = true
+
+# requirement for local development
+runOnSave = true
+
+# requirement for local development
+fileWatcherType = "poll"
+
