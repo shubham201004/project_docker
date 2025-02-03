@@ -1,0 +1,29 @@
+[[pages]]
+path = "page/1_home.py"
+name = "CDAC's AI-Powered Plant Disease Detection and Suggestion System"
+icon = "🌿"  
+
+[[pages]]
+name = "Predict"
+icon = "🔬"  
+is_section = true
+
+[[pages]]
+path = "page/2_prediction.py"
+name = "Predict Disease Using CNN"
+icon = "🧠" 
+
+[[pages]]
+path = "page/2_1.prediction_with_genai_suggestions.py"
+name = "Predict Disease and Get Suggestions"
+icon = "💡"
+
+[[pages]]
+name = "About"
+icon = "ℹ️" 
+is_section = true
+
+[[pages]]
+path = "page/3_about.py"
+name = "Our Team"
+icon = "📖"

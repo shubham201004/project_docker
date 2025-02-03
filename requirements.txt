@@ -1,0 +1,7 @@
+streamlit==1.40.1
+tensorflow
+numpy
+python-dotenv 
+openai
+st-pages==1.0.1
+langchain_openai
